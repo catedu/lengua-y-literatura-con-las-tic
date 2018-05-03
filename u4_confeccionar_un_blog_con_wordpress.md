@@ -5,9 +5,6 @@ Otra posibilidad para crear un blog la ofrece WordPress. WordPress ha sido dise
 
 ![Logo WordPress](img/wordpress-logo.jpg "Logo WordPress")
 
-
-Fig. 1.10 _Logo de Wordpress_
-
 **1\. Zona de acceso y creación de nuestro blog**
 
  Entra en la página [http://es.wordpress.com/](http://es.wordpress.com/)
@@ -18,7 +15,6 @@ Fig. 1.10 _Logo de Wordpress_
 ![Registrase en WordPress](img/wordpressini.png "Registrarse en WorPress")
 
 
-Fig. 1.11  Registrarse en WordPress
 
 *   **Después de activar la cuenta puedes comenzar a administrar tu blog**. Para llegar al panel de administración accedes a [http://es.wordpress.com/](http://es.wordpress.com/) y allí entras con tu nombre de usuario y password.
 
@@ -46,10 +42,6 @@ e. Comentarios:  en esta sección puedes configurar todo lo relacionado a los c
 
 
 ![Ajustes generales WordPress](img/ajustes-generales.jpg "Ajustes generales WordPress")  
-
-  
-_                         Fig. 1.12  ajustes generales en WordPress_  
-  
 
  Para continuar con la configuración de WorPress te recomendamos el siguiente tutorial: [http://tutorialwp.wordpress.com](http://tutorialwp.wordpress.com)
 

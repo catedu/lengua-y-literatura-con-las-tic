@@ -9,18 +9,12 @@ Se ha diseñado con la intención de que el profesorado conozca el manejo básic
 
 [![Quiijote on line Biblioteca Nacional](img/quijote.png "Quiijote on line Biblioteca Nacional")](http://quijote.bne.es/libro.html)
 
-
-                                                                 Fig. 1.1 _Quijote interactivo [BN](http://www.bne.es)_
-
 Todos los materiales se pueden utilizar en los diferentes niveles de Lengua tanto  de Primaria, como de  Secundaria y Bachillerato. 
 
 Lo primero que queremos presentar es el **Blog** como herramienta  de  comunicación, porque su uso incentiva la generación de ideas y su puesta en común, así como  la colaboración.
 
 
  [![Fig.1.01 Logo del Blog de la RAE](img/hdr_rae_informa-980x348.jpg "Fig.1.01 Logo del Blog de la RAE")](http://rae.es/comunicacion/blogs-de-la-rae "Blogs de la RAE")
-
-
-                                                           Fig.1.2  _ Logo del Blog de la RAE. Web. [rae.es](http://rae.es)_
 
 ## Objetivos
 

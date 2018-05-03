@@ -7,14 +7,14 @@ ____
 * [Módulo 1: EL BLOG COMO MEDIO DE COMUNICACIÓN](index0.md)
 * [Contenidos](contenidos.md)
 	* [U.1 LOS BLOGS](u1_los_blogs.md)
-	* [U.3 CONFECCIONAR UN BLOG CON BLOGGER](u3_confeccionar_un_blog_con_blogger.md)
-	* [U.2 CONFECCIONAR UN BLOG CON ARABLOGS](u2_confeccionar_un_blog_con_arablogs.md)
-	* [U.4 CONFECCIONAR UN BLOG CON WORDPRESS](u4_confeccionar_un_blog_con_wordpress.md)
-	* [U.5 ¿CUÁL ES LA MEJOR HERRAMIENTA PARA CREAR UN BLOG?](u5_cul_es_la_mejor_herramienta_para_crear_un_blog.md)
-	* [U.6 APLICACIONES DIDÁCTICAS DE LOS BLOGS](u6_aplicaciones_didcticas_de_los_blogs.md)
-	* [U.7 EJEMPLOS DE BLOGS EDUCATIVOS](u7_ejemplos_de_blogs_educativos.md)
+	* [U.2 CONFECCIONAR UN BLOG CON BLOGGER](u3_confeccionar_un_blog_con_blogger.md)
+	* [U.3 CONFECCIONAR UN BLOG CON WORDPRESS](u4_confeccionar_un_blog_con_wordpress.md)
+	* [U.4 ¿CUÁL ES LA MEJOR HERRAMIENTA PARA CREAR UN BLOG?](u5_cul_es_la_mejor_herramienta_para_crear_un_blog.md)
+	* [U.5 APLICACIONES DIDÁCTICAS DE LOS BLOGS](u6_aplicaciones_didcticas_de_los_blogs.md)
+	* [U.6 EJEMPLOS DE BLOGS EDUCATIVOS](u7_ejemplos_de_blogs_educativos.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
-* [Créditos](crditos.md)
+
+<!--
 ### Módulo 2: BUSCANDO INFORMACIÓN EN INTERNET | Buscando información en Internet 
 * [Módulo 2: BUSCANDO INFORMACIÓN EN INTERNET](index1.md)
 * [Contenidos](contenidos1.md)
@@ -99,4 +99,7 @@ ____
 	* [U.4 USO EDUCATIVO DE LAS REDES SOCIALES](u4_uso_educativo_de_las_redes_sociales.md)
 	* [U.5 EJEMPLOS EDUCATIVOS DEL USO DE LAS REDES SOCIALES EN LENGUA CASTELLANA Y LITERATURA](u5_ejemplos_educativos_del_uso_de_las_redes_sociales_en_lengua_castellana_y_literatura.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos5.md)
-* [Créditos](crditos5.md)
+-->
+
+___
+* [Créditos](crditos.md)

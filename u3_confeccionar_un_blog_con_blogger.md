@@ -3,9 +3,6 @@
 
 ![Logo Blogger](img/800px-Blogger-logo.jpg "Logo Blogger")
 
-
-Fig. 1.8 _Logo de Blogger_
-
 Blogger es  un servicio _online_  de administración de blogs. Para crear un blog en Blogger  hay que acceder a la página de [Blogger](https://accounts.google.com/ServiceLogin?service=blogger&ltmpl=start&hl=es&passive=86400&continue=http://www.blogger.com/home#s01), crear una cuenta, que no es necesaria si se tiene una de correo con gmail.  
   
 
@@ -24,7 +21,6 @@ Blogger es  un servicio _online_  de administración de blogs. Para crear un b
   
 • Al entrar como propietario o administrador del blog con tu usuario y contraseña, puedes añadir entradas o modificar las ya publicadas. Crear una entrada es tan sencillo como utilizar un procesador de textos. Lo más conveniente es publicar contenido original, aunque también puedes utilizar información de Internet, siempre de forma responsable. Actualmente muchos materiales están publicados bajo [Creative Commons](http://es.creativecommons.org/blog/). Debes mirar las condiciones y respetarlas. Además, dispones de opciones para personalizar letras, colores, incluir imágenes, etc.
 
-                                                   Fig. 1.9 _Crea un blog en Blogger_
 
 **2\. Todo lo que hay que sabe para dominar Blogger**
 
@@ -32,5 +28,4 @@ Para dominar todos los entresijos de Blogger recomendamos la lectura de [Inicio 
 
 **Video tutorial de Blogger**
 
-Vídeo 2. [http://www.youtube.com/watch?v=m8Wat_TFLKw](http://www.youtube.com/watch?v=m8Wat_TFLKw)
-
+{% youtube %}https://www.youtube.com/watch?v=jIQyDzK0gCI{% endyoutube %}

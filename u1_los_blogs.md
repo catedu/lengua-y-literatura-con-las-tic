@@ -15,10 +15,7 @@ La estructura de un blog es bastante estándar y suele mantenerse sea cual sea e
 
  [![Elementos del blog. Ite](img/elementosblog1.jpg "Fig.0_2 Elementos de un blog. Ite")](http://www.ite.educacion.es/formacion/materiales/157/cd/m4_1_blog_bitacoras/elementos_de_un_blog.html)
 
-
-                                      Fig. 1.3 _ Elementos de un blog. Ite_
-
 **Muchos son los usos didácticos que pueden tener los blogs. Para muestra un botón**
 
-Video 1. _II Encuentro de blogs educativos._ [http://vimeo.com/38116481](http://vimeo.com/38116481)
-
+<iframe src="https://player.vimeo.com/video/38116481" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/38116481">II Encuentro Provincial de Blogs Educativos</a> from <a href="https://vimeo.com/user3990297">CEP Marbella-Coin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

@@ -2,15 +2,15 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
     "language": "es",
     "variables": {
-        "title": "______________",
-        "author": "______________",
+        "title": "Lengua y Literatura con las TIC",
+        "author": "María Soledad Catalán Marín",
         "collaborators": [
-            { "name": "_________", "edited": "_____________" }
+            { "name": "Nadie", "edited": "nada" }
         ]
     },
     "pluginsConfig": {
         "image-captions": {
-            "caption": "Imagen - _CAPTION_"
+            "caption": "_CAPTION_"
         },
         "localized-footer": {
             "hline": true,
