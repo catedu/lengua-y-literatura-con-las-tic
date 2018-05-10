@@ -1,7 +1,5 @@
 # Portales educativos
 
-**Portales educativos**
-
 *   [Centro Virtual Cervantes](http://www.cvc.cervantes.es/portada.htm)
 
 El Centro Virtual Cervantes ofrece materiales y servicios para los profesores de español, los estudiantes, los traductores, los periodistas y otros profesionales que trabajan con la lengua, así como para los hispanistas de todo el mundo.  El sitio está organizado en cinco grandes secciones: Enseñanza, Literatura, Lengua, Artes y Ciencia. También mantiene sus portales asociados: el Aula Virtual de Español, el portal de los Congresos Internacionales de la Lengua Española, y los de la radio y la televisión por internet del Instituto Cervantes.
@@ -12,9 +10,6 @@ Materiales de apoyo al área de Lengua y Literatura en Educación Secundaria Obl
 
 
 ![Recursos de Lengua y Literatura](img/recursos.png "Recursos de Lengua y Literatura")
-
-
-Fig. 2.33 _Proyecto Ciceros_
 
 *   [El Rincón del castellano](http://www.rinconcastellano.com/)
 
@@ -31,16 +26,9 @@ Fomenta la lectura y anima a su práctica, también aporta materiales y consejos
 
 ![Portal leer.es](img/leer.png "Portal leer.es")
 
-
-Fig. 2.34 _Página de inicio de Lee.es_
-
 *   [**Facilitamos.catedu.es**](http://facilitamos.catedu.es/)
 
 En este  nuevo portal de Catedu se están incluyendo Unidades didácticas con sus correspondientes propuestas didácticas, de todas las materias y, en concreto, de tercer ciclo de primaria de [Lengua castellana y Literatura](http://facilitamos.catedu.es/primarialengua/), así como de [3º de ESO de Secundaria](http://facilitamos.catedu.es/secundarialengua/).
 
 
 ![Portal Facilit@amos Lengua castellana](img/Secundaria.jpg "Portal Facilit@amos Lengua castellana")
-
-
-  Fig. 2.35 _Página de inicio del portal de [Facilit@mos](mailto:Facilit@mos) de Secundaria de Lengua castellana y Literatura_
-

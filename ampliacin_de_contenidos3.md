@@ -18,7 +18,7 @@ Vídeo 7 [Tutorial Pbworks](https://www.slideshare.net/marianal_TIC/tutorial-pb
 ![Recurso creado con mediaWiki](img/mediawiki.png "Recurso creado con mediaWiki")
 
 
-Fig. 4.11  _Herramienta creada con Media Wiki_
+
 
 *   [Twiki](http://www.twiki.org/) (software descargable)
 *   [Instiki](http://www.instiki.org/) (software descargable)

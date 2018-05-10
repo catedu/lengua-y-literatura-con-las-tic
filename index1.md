@@ -1,16 +1,11 @@
-# Módulo 2: BUSCANDO INFORMACIÓN EN INTERNET
-
- **Lengua castellana y Literatura con las  TIC **
+# 2. BUSCANDO INFORMACIÓN EN INTERNET
 
 
 [![Biblioteca Nacional](img/bn.jpg.jpg "Biblioteca Nacional")](http://www.bne.es/es/Inicio/index.html)
 
 
 
- ![Sala de consulta de la Biblioteca Nacional](img/salon_general_biblioteca_nacional_madrid_m.jpg_1306973099.jpg "Sala de consulta de la Biblioteca Nacional")
-
-
- Fig. 2.1 _Biblioteca Nacional. Web BN_ Fig.2.2_ Sala de lectura de la Biblioteca Nacional.Web BN_
+![Sala de consulta de la Biblioteca Nacional](img/salon_general_biblioteca_nacional_madrid_m.jpg_1306973099.jpg "Sala de consulta de la Biblioteca Nacional")
 
 El   crecimiento del volumen de información disponible en Internet hace necesario que se conozcan  los mejores y más seguros  mecanismos de navegación,  búsqueda y selección.  
 

@@ -13,7 +13,7 @@ En definitiva, el **Blog** es un medio fundamental  para compartir informació
 La estructura de un blog es bastante estándar y suele mantenerse sea cual sea el proveedor de servicios.
 
 
- [![Elementos del blog. Ite](img/elementosblog1.jpg "Fig.0_2 Elementos de un blog. Ite")](http://www.ite.educacion.es/formacion/materiales/157/cd/m4_1_blog_bitacoras/elementos_de_un_blog.html)
+ [![Elementos del blog. Ite](img/elementosblog1.jpg "
 
 **Muchos son los usos didácticos que pueden tener los blogs. Para muestra un botón**
 

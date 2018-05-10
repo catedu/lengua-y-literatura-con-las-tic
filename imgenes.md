@@ -1,10 +1,8 @@
 # Imágenes
 
-**Imágenes**
-
 Existen varios servicios  que nos permiten buscar imágenes con licencias flexibles que facilitan su reutilización:
 
-*   **Flickr **([http://www.flickr.com](http://www.flickr.com/)) 
+*   **Flickr**([http://www.flickr.com](http://www.flickr.com/)) 
 
 En la  parte superior izquierda de la página principal si se pulsa en "Búsqueda" y después en "Búsqueda avanzada"
 
@@ -17,10 +15,7 @@ se accede a contenido con licencias Creative Commons
 
 ![Búsqueda avanzada flickr](img/busquedaflic.png "Búsqueda avanzada flickr")
 
-
-Fig. 2.11 _Página de flickr_
-
-*   ** Google Images** ([http://images.google.com](http://images.google.com/) )
+*   **Google Images** ([http://images.google.com](http://images.google.com/) )
 
 Como en el caso anterior, se accede a la opción búsqueda avanzada. Desde ahí se puede elegir el tipo de licencia con el que quieres encontrar tus recursos.
 
@@ -30,9 +25,6 @@ Es una página con colecciones de imágenes ordenadas en categorías, con licenc
 
 
 ![Página inicial de Pics4Learning](img/Pics.png "Página inicial de Pics4Learning")
-
-
-Figura 2.12 _Página de inicio de Pics4Learning.com_
 
 *   **Morguefile** ( [http://www.morguefile.com](http://www.morguefile.com))
 

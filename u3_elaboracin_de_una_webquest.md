@@ -21,6 +21,6 @@ Existen aplicaciones informáticas gratuitas específicamente programadas para c
 Hay también generadores de **WebQuest on-line** como el de **Aula21.net **([http://www.aula21.net/Wqfacil/webquest.htm](http://www.aula21.net/Wqfacil/webquest.htm)) que permiten crear los archivos de las páginas web que componen la WebQuest, para su posterior descarga, modificación en su caso, y alojamiento (por cuenta del usuario, ya que este servicio no se proporciona) en Internet.
 
 
-[![Aula21 generador de webquest](img/wq6.png "Aula21 generador de webquest")](http://www.aula21.net/Wqfacil/webquest.htm)Fig.5.3  _Generador de WebQuest_ [http://www.aula21.net/Wqfacil/webquest.htm](http://www.aula21.net/Wqfacil/webquest.htm)
+[![Aula21 generador de webquest](img/wq6.png "Aula21 generador de webquest")](http://www.aula21.net/Wqfacil/webquest.htm)
 
 

@@ -10,7 +10,7 @@ Trabajar   temas en torno a los programas de ofimática y  crear producciones
 ![Página de inicio de la Escuela en la nube](img/nUBE1.png "Página de inicio de la Escuela en la nube") ![Página de inicio de la Literatura en la nube](img/NUBE2.png "Página de inicio de la Literatura en la nube")
 
 
- Fig. 3.1 _Página de inicio de la Escuela en la nube_                                     Fig. 3.2 _Página de inico de la Literatura en la nube_
+ 
 
       [http://www.escuelaenlanube.com/](http://www.escuelaenlanube.com/)                                        [http://laliteraturaestaenlanube.blogspot.com.es/](http://laliteraturaestaenlanube.blogspot.com.es/)
 

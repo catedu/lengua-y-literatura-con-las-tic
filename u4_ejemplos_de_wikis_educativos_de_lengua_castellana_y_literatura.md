@@ -8,5 +8,5 @@
  ![Página de inicio de recursos INTEF](img/wiki7.png "Página de inicio de recursos INTEF")
 
 
- Fig. 4.7 _Página de inicio de recursos INTEF_
+ 
 

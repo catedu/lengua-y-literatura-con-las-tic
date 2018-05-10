@@ -21,7 +21,7 @@ Véase [http://recursostic.educacion.es/observatorio/web/es/internet/web-20/104
  ![Redes sociales](img/redes_sociales2.jpg "Redes sociales")
 
 
-Fig. 6.3 _Distintas redes sociales_
+
 
  [http://recursostic.educacion.es/observatorio/web/images/upload/IsabelPonce/bocadillo2.jpg](http://recursostic.educacion.es/observatorio/web/images/upload/IsabelPonce/bocadillo2.jpg)
 

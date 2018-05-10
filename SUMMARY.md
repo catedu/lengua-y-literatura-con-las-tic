@@ -2,8 +2,9 @@
 
 * [Introducción](README.md)
 
+<!--
 ____
-### Módulo 1: EL BLOG COMO MEDIO DE COMUNICACIÓN | El blog como medio de comunicación 
+### 1. El blog como medio de comunicación 
 * [Módulo 1: EL BLOG COMO MEDIO DE COMUNICACIÓN](index0.md)
 * [Contenidos](contenidos.md)
 	* [U.1 LOS BLOGS](u1_los_blogs.md)
@@ -14,8 +15,7 @@ ____
 	* [U.6 EJEMPLOS DE BLOGS EDUCATIVOS](u7_ejemplos_de_blogs_educativos.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
 
-<!--
-### Módulo 2: BUSCANDO INFORMACIÓN EN INTERNET | Buscando información en Internet 
+### 2. Buscando información en Internet 
 * [Módulo 2: BUSCANDO INFORMACIÓN EN INTERNET](index1.md)
 * [Contenidos](contenidos1.md)
 	* [U.1 LOS BUSCADORES COMO MOTORES DE BÚSQUEDAS. RECURSOS ABIERTOS](u1_los_buscadores_como_motores_de_bsquedas_recursos_abiertos.md)
@@ -41,9 +41,10 @@ ____
 		* [Diccionarios](diccionarios.md)
 		* [Gramática](gramtica.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos1.md)
-* [Créditos](crditos1.md)
-### Módulo 3: PRESENTACIONES Y TRABAJO COLABORATIVO CON RECURSOS DE LA RED | Presentaciones y trabajo colaborativo con recursos de la red 
-* [Módulo 3: PRESENTACIONES Y TRABAJO COLABORATIVO CON RECURSOS DE LA RED](index2.md)
+-->
+
+### 3. Presentaciones y trabajo colaborativo con recursos de la red 
+* [PRESENTACIONES Y TRABAJO COLABORATIVO CON RECURSOS DE LA RED](index2.md)
 * [Contenidos](contenidos2.md)
 	* [U.1 GUARDAR Y COMPARTIR MATERIALES](u1_guardar_y_compartir_materiales.md)
 		* [Google Drive](google_drive.md)
@@ -58,7 +59,8 @@ ____
 		* [Compartir presentaciones con Scrib](compartir_presentaciones_con_scrib.md)
 		* [Compartir presentaciones con Issuu](compartir_presentaciones_con_issuu.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos2.md)
-* [Créditos](crditos2.md)
+
+<!--
 ### Módulo 4: TRABAJO COLABORATIVO CON WIKIS | Trabajo colaborativo con wikis 
 * [Módulo 4: TRABAJO COLABORATIVO CON WIKIS](index3.md)
 * [Contenidos](contenidos3.md)

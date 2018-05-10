@@ -16,7 +16,7 @@ Este sería el aspecto de una WebQuest realizada con Google Sites
 ![WebQuest con Google Sites](img/wikigs.png "WebQuest con Google Sites")
 
 
- Fig. 5.9 _WebQuest creada con Google Sites _
+ 
 
 [https://sites.google.com/site/tallerdecuentosdeterror/](https://sites.google.com/site/tallerdecuentosdeterror/)
 

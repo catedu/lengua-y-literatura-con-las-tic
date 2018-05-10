@@ -2,27 +2,18 @@
 
 **Otro recurso** del que se pueden extraer textos, y otros recursos multimedia, es [https://archive.org/](https://archive.org/). Es un sitio web y una organización sin ánimo de lucro destinada a la preservación de historiales Web y recursos multimedia.  Tiene una gran cantidad de archivos de audio, video y texto, algunos de ellos en dominio público, o de licencias  Creative Commons o cualquier otra licencia que permita la distribución. 
 
-  
-[  
-](http://archive.org/index.php)
+<iframe src='https://www.archive.org/stream/romancerogitano100garcuoft?ui=embed#mode/1up' width='480px' height='430px' frameborder='0' ></iframe>
 
-Fig. 2.9 _Federico García Lorca, Romancero Gitano_
-
-         [http://www.archive.org/stream/romancerogitano100garcuoft#page/4/mode/2up](http://www.archive.org/stream/romancerogitano100garcuoft#page/4/mode/2up)
-
-**2\. Los wikis**
+#### Las wikis
 
 ** Wikipedia**
 
 Una de las opciones más interesantes cuando se necesita contenido textual es la Wikipedia [http://es.wikipedia.org](http://es.wikipedia.org/wiki/Wikipedia:Portada)
 
-Una enciclopedia colaborativa multilingüe en la que cualquier usuario puede crear o editar los artículos.  Aunque hay quien discute la fiabilidad de su contenido, es incuestionable el impacto que la Wikipedia está teniendo en los más diversos campos del saber. La voluntad de sus usuarios por compartir conocimiento y la velocidad de actualización de sus contenidos la convierten en una seria alternativa a las enciclopedias tradicionales. Todo el contenido de la Wikipedia aparece con una licencia Creative Commons Reconocimiento Compartir Igual 3.0.
+Una enciclopedia colaborativa multilingüe en la que cualquier usuario puede crear o editar los artículos. Aunque hay quien discute la fiabilidad de su contenido, es incuestionable el impacto que la Wikipedia está teniendo en los más diversos campos del saber. La voluntad de sus usuarios por compartir conocimiento y la velocidad de actualización de sus contenidos la convierten en una seria alternativa a las enciclopedias tradicionales. Todo el contenido de la Wikipedia aparece con una licencia Creative Commons Reconocimiento Compartir Igual 3.0.
 
 
 ![Página de inicio de Wikipedia en España](img/wikipedia.png "Página de inicio de Wikipedia en España")
-
-
-                                       Fig. 2.10  _Página de inicio de Wikipedia en español_
 
 ## Importante
 
@@ -34,7 +25,7 @@ Es muy importante diferenciar entre la cita bibliográfica en nota y la bibliogr
 
 A la hora de citar diferenciaremos de nuevo entre: libro, edición, artículo de revista y colaboración en obra colectiva.
 
-Libro
+**Libro**
 
 Autor, título en cursiva, ciudad, editorial, año.
 
@@ -44,7 +35,7 @@ Edición. Se citará siempre el nombre del editor:
 
 _Cantar de Mío Cid,_ ed. Alberto Montaner, Barcelona, Crítica, 1993.
 
-Artículo de revista:
+**Artículo de revista**:
 
 Autor, título entrecomillado, nombre de la revista en cursiva, tomo, año entre paréntesis y páginas.
 
@@ -54,7 +45,7 @@ Faulhaber, Charles, <<The hawk m Melibea's garden>>, _Hispanic Review, 45_ (1977
 
  En el caso de los recursos electrónicos (páginas _web,_ CD-Rom, etc.), el orden de los datos que se han de aportar es: a) autor o entidad responsa­ble del contenido y año de publicación; b) título; c) tipo de soporte \[entre corchetes\]; d) edición, lugar de publicación y editorial (en los CD-Rom); e) ruta de acceso (en las páginas _web);_ f) fecha de consulta (en las páginas _web)._
 
-             INSTITUTO CERVANTES (2002): _Calderón y la cultura europea_ \[en línea\]. <http://cvc.cervantes.es /obreflcalderoneuropa/> \[Consulta: 14 de noviembre de 2002\].
+INSTITUTO CERVANTES (2002): _Calderón y la cultura europea_ \[en línea\]. <http://cvc.cervantes.es /obreflcalderoneuropa/> \[Consulta: 14 de noviembre de 2002\].
 
 _Enciclopedia Multimedia Lambda Siglo XXI_ (1998): \[CD-Rom\]. 1.a edición, Madrid, Lambda Multimedia, CD n.º 1. 
 

@@ -8,7 +8,7 @@ Google  presenta la novedad de acceder a todas sus posibilidades desde una úni
  ![Página de acceso a todos los servicios de Google](img/google_sites1.png "Página de acceso a todos los servicios de Google")
 
 
-Fig. 4.2 _Acceso a una única cuenta de Google_
+
 
 Después, accederemos a la pantalla siguiente en la que deberemos seleccionar una plantilla para nuestra página web y darle  un nombre a nuestro sitio. A continuación se nos mostrará la ubicación del sitio. Y ya podremos entrar en nuestra página. En ella contaremos con constantes ayudas que nos despejarán las dudas que nos encontremos en su uso.
 
@@ -16,7 +16,7 @@ Después, accederemos a la pantalla siguiente en la que deberemos seleccionar un
 ** ![Crear un wiki con Google Sites](img/wiki3.png "Crear un wiki con Google Site")**
 
 
-Fig. 4.3  __Página para crear nuestro wiki__
+
 
 Crearemos las paginas que queramos y podremos dar acceso a ellas a otros usuarios, porque  Google sites dispone de 3 modalidades de usuarios:
 

@@ -12,7 +12,7 @@ El primer paso para crear un Wiki es ir a la página principal de [wikispaces](
 ![Página de inicio de wikispaces](img/wikispaces.png "Página de inicio de wikispaces")
 
 
-Fig. 4.4  _Página de inicio de Wikispaces_
+
 
 Una vez registrados, ya podemos crear un wiki
 
@@ -20,7 +20,7 @@ Una vez registrados, ya podemos crear un wiki
 ![Para elaborar un wiki en Wikispace](img/wikim.png "Para elaborar un wiki en Wikispace")
 
 
-Fig. 4.5 _Crear un wiki en Wikispaces_
+
 
 *   ** Configuración inicial**
     

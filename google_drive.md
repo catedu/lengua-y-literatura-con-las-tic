@@ -6,7 +6,7 @@
  ![Logo GoogleDrive](img/google_drive_logo_3963.png "Logo GoogleDrive")
 
 
-                                                         Fig. 3.4 _Logo de Google Drive_. Web [http://www.google.com/drive/](http://www.google.com/drive/)
+                                                         
 
 Google Drive  es un software que puede ser aplicado fácilmente dentro del aula, dadas sus características. Para ello, debes tener en cuenta las posibilidades del centro y del alumnado, y conocer en profundidad las funciones y ventajas que esta herramienta colaborativa nos ofrece.
 

@@ -18,5 +18,5 @@ Los wikis ofrecen interesantes posibilidades para todos los niveles del área de
 [![Mapa conceptual](img/wikis2.png "Mapaconceptual")](http://www.fzayas.com/tecursos-tic-para-el-area-de-lengua-y-literatura/)
 
 
-                                       Fig. 4.6 _Mapa conceptual de la importancia de las TIC para Lengua castellana y Literatura_
+                                       
 

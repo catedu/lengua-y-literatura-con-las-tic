@@ -1,24 +1,17 @@
 # Audios
 
-**Audios**
-
 Para insertar sonidos, ruidos y ambientes sonoros en nuestra creaciones, sobre todo literarias, tenemos varias posibilidades.
 
 *   **Audio   Freesoundproject** ([http://www.freesound.org](http://www.freesound.org))
 
-Es una plataforma de sonidos, ruidos y ambientes sonoros (no tiene canciones) que son útiles para ambientar narraciones, obras de teatro, cuentos, etc.   Los materiales de _freesoundproject_  se encuentran bajo la licencia Creative Commons Sampling  Plus License que es un tipo especial de licencia CC aplicable a los fragmentos sonoros. 
+Es una plataforma de sonidos, ruidos y ambientes sonoros (no tiene canciones) que son útiles para ambientar narraciones, obras de teatro, cuentos, etc. Los materiales de _freesoundproject_  se encuentran bajo la licencia Creative Commons Sampling  Plus License que es un tipo especial de licencia CC aplicable a los fragmentos sonoros.
 
-                                                                     Video 6. Efecto sonoro de terror 
-
-                                       [http://www.freesound.org/people/klankbeeld/sounds/203738/](http://www.freesound.org/people/klankbeeld/sounds/203738/)
+[http://www.freesound.org/people/klankbeeld/sounds/203738/](http://www.freesound.org/people/klankbeeld/sounds/203738/)
 
 Cuando elegimos el sonido que queremos embeber en nuestro blog, se abre una página para escucharlo y a la derecha la posibilidad de embeberlo.
 
 
-![Parte donde aparece el código para emeber el sonido](img/miedo.png "Parte donde aparece el código para emeber el sonido")
-
-
-  Fig. 2.18 _Cómo embeber el sonido elegido_
+![Cómo embeber el sonido elegido](img/miedo.png "Parte donde aparece el código para emeber el sonido")
 
 *    **SoundBible** ([http://soundbible.com/](http://soundbible.com/))
 
@@ -26,9 +19,7 @@ Es una plataforma donde se pueden encontrar sonidos y efectos en formato wav y m
 
 *   **Canciones Jamendo** ([http://www.jamendo.com/es/](http://www.jamendo.com/es/))
 
-Es  un sitio web en el que se pueden encontrar multitud de álbumes de diferentes categorías musicales que podrán utilizarse para sonorizar cualquier tipo de producto multimedia . Una vez que has seleccionado un álbum o un tema en Jamendo se mostrará la información sobre el mismo, los derechos y un código para incluir un  reproductor en una página web si este va a ser su uso final. 
-
- Vídeo 7. El poema _Dos palomas_ de F. García Lorca cantado por Alfredo González Vilela
+Es  un sitio web en el que se pueden encontrar multitud de álbumes de diferentes categorías musicales que podrán utilizarse para sonorizar cualquier tipo de producto multimedia. Una vez que has seleccionado un álbum o un tema en Jamendo se mostrará la información sobre el mismo, los derechos y un código para incluir un  reproductor en una página web si este va a ser su uso final. 
 
 ## Importante
 

@@ -11,7 +11,7 @@ No hay hasta el momento muchas experiencias educativas en la materia de  Lengua
 ![Actividad con El Quijote en Twitter](img/twquij.png "Actividad con El Quijote en Twitter")
 
 
-    Fig. 6.18 _Ejemplo del uso de las redes sociales como herramienta educativa_
+    
 
 *   _Lazarillo de Tormes_, [http://twitter.com/Lazarilloiescmc](http://twitter.com/Lazarilloiescmc "LazarillodeTormes"): coordinada por la profesora Aurelia Molina, con alumnos y alumnas de 3º ESO del IES “Concha Méndez Cuesta” de Torremolinos (Málaga). Esta actividad consiste en una adaptación de la novela picaresca al formato de publicación propio de [Twitter](http://twitter.com/ "Twitter"), servicio en el que cada uno de los personajes principales de la novela tiene su propia cuenta. Al igual que en el ejemplo anterior, todos los tuits publicados se recopilan en [Storify](http://storify.com/Lazarilloiescmc/lazarillo-de-tormes "Lazarillo de Tormes - Storify"). Para conocer más detalles sobre la actividad, véase el artículo publicado en el periódico [El Sur](http://www.diariosur.es/v/20120428/malaga/lazarillo-cabe-tweets-20120428.html "El Lazarillo cabe en 104 'tweets'").
 *   _Recopilación de recursos web para Lengua de 3º de ESO_, [http://cedec.ite.educacion.es/index.php/es/kubyx/2011/12/03/51-marcadores-cedec](http://cedec.ite.educacion.es/index.php/es/kubyx/2011/12/03/51-marcadores-cedec). Iniciativa del [Centro Nacional de Desarrollo Curricular en Sistemas No Propietarios (CEDEC)](http://cedec.ite.educacion.es/ "Centro Nacional de Desarrollo Curricular en Sistemas No Propietarios (CEDEC)") mediante la cual se pretende recopilar enlaces útiles para la actividad didáctica en el área de Lengua. Los enlaces se ordenan y sistematizan en una cuenta de [Diigo](http://www.diigo.com/list/canal_cedec/lengua-castellana-y-literatura-3-de-eso "CeDeC Centro Nacional de desarrollo curricular's List: Lengua Castellana y Literatura en la E.S.O."), un servicio de marcadores sociales.
@@ -21,7 +21,7 @@ No hay hasta el momento muchas experiencias educativas en la materia de  Lengua
 ![Uso educativo de las redes sociales](img/tw9.png "Uso educativo de las redes sociales")
 
 
- Fig. 6.19_  Uso educativo de las redes sociales_
+ 
 
 *   _Twitter en el aula_, [http://iessanjose.blogspot.com.es/2010/09/twitter-en-el-aula.html](http://iessanjose.blogspot.com.es/2010/09/twitter-en-el-aula.html "Twitter en el aula"). Completo repertorio de actividades educativas para las áreas de lenguas que se pueden llevar a cabo utilizando el popular servicio de microblogging. Es una propuesta del profesor [Ramón Besonias](http://lamiradaperpleja.blogspot.com.es/ "Ramón Besonias").
 

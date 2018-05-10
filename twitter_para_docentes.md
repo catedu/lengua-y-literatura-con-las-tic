@@ -14,5 +14,5 @@ Véase [http://www.examtime.es/twitter-en-el-aula/](http://www.examtime.es/twit
 ![Twitter para docentes](img/tw6.png "Twitter para docentes")
 
 
-Fig. 6.9 _Twitter en el aula_
+
 

@@ -10,7 +10,7 @@ Te recomendamos la lectura del manual [http://www.catedu.es/facilytic/2013/05/1
 ![Página para registrarse en Dropbox](img/Droxbox.png "Página para registrarse en Dropbox")
 
 
- Fig. 3.5 _Página inicial para registrarse en Dropbox_
+ 
 
                   Vídeo 2.  [Manual básico de Dropbox](https://www.slideshare.net/juanjbano/manual-bsico-de-dropbox "Manual básico de Dropbox") [Juan Jesús](http://www.slideshare.net/juanjbano)
 

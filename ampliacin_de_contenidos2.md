@@ -8,7 +8,7 @@ Otro servicio para compartir documentos en la red es Calaméo ([http://es.calame
 ![Página de inicio de Calaméo](img/Calameo.png "Página de inicio de Calaméo")
 
 
- Fig. 3.18 _Página inicial de Calaméo_
+ 
 
 **Cómo utilizarla**
 
@@ -18,7 +18,7 @@ Primero hay que entrar en la web [Calaméo](http://es.calameo.com/) y nos regist
 **![Crear una publicación en Calaméo](img/calameo-escritorio.jpg "Crear una publicación en Calaméo")**
 
 
- Fig. 3.19 _Crear un publicación en Calaméo_
+ 
 
 **Utilidades didácticas**
 

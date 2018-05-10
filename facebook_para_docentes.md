@@ -24,7 +24,7 @@ Algunos de los grupos o páginas que podemos encontrar de tipo general son:
  ![EduFacebook](img/face2.png "EduFacebook")
 
 
-Fig. 6.15 _Página de inicio de Facebook para docentes_
+
 
 Los recursos educativos se distribuyen en los siguientes apartados: MISCELÁNEA, GENERAL, Asociaciones, Centros educativos, Ciencias, Ciencias sociales, Formación, Idiomas, Nivel educativo, Orientación, Páginas personales, Recursos, Redes sociales, Religión, Salud, Servicios y herramientas, Universidades.
 
@@ -32,5 +32,5 @@ Los recursos educativos se distribuyen en los siguientes apartados: MISCELÁNE
 ![Recursos educativos de EduFacebook](img/face3.png "Recursos educativos de EduFacebook")
 
 
- Fig. 6.16 _Apartados de los recursos educativos de EduFacebook_
+ 
 

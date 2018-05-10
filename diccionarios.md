@@ -1,7 +1,5 @@
 # Diccionarios
 
-**Diccionarios**
-
 *   [**Diccionario Salamanca de la Lengua Española**](http://fenix.cnice.mec.es/diccionario/) (Intef)
 
 Es un diccionario de español para estudiantes y profesores de español, tanto como lengua materna como lengua extranjera. Está dirigido específicamente para la enseñanza, y así, junto a las definiciones de cada término, aparecen, cuando es oportuno, el uso de esas palabras dentro de locuciones frecuentes y la información gramatical precisa.
@@ -10,9 +8,6 @@ Es un diccionario de español para estudiantes y profesores de español, tanto
 
 
 ![Página de inicio de RAE](img/rae.png "Página de inicio de RAE")
-
-
-Fig. 2.38 _Página de inicio de RAE_
 
 **Diccionarios multimedia**
 
@@ -23,6 +18,4 @@ Es un diccionario cuyo objetivo es facilitar el aprendizaje del vocabulario y la
 
 **![Diccionario leo lo que veo](img/leo.png "Diccionario leo lo que veo")**
 
-
- Fig. 2.39 _Diccionario visual_
 

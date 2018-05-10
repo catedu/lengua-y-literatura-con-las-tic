@@ -8,7 +8,7 @@ CATEDU ofrece la posibilidad de crear nuestra WebQuest de manera rápida y senci
  ![Página de inicio de CATEDU para crear una WebQuest](img/wQ9.png "Página de inicio de CATEDU para crear una WebQuest")
 
 
- Fig. 5.4  _Página de inicio para registrarse en el servicio de CATEDU para crear WebQuest_
+ 
 
 Hay que registrarse y aparecerá la siguiente pantalla en la que ya podrás crear tu WebQuest de forma muy sencilla.
 
@@ -16,7 +16,7 @@ Hay que registrarse y aparecerá la siguiente pantalla en la que ya podrás crea
 ![Para crear una WebQuest con CATEDU](img/wq8.png "Para crear una WebQuest con CATEDU")
 
 
-                                 Fig. 5.5  _Tu página para crear una WebQuest_
+                                 
 
 Aquí te mostramos un ejemplo
 
@@ -24,7 +24,7 @@ Aquí te mostramos un ejemplo
 ![Ejemplo de WebQuest con CATEDU](img/WQ.png "Ejemplo de WebQuest con CATEDU")
 
 
-          Fig. 5.6  _Ejemplo de WebQuest en __CATEDU_
+          
 
  [http://www.catedu.es/crear_wq/wq/home/7713/index.html](http://www.catedu.es/crear_wq/wq/home/7713/index.html)
 

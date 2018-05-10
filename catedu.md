@@ -30,26 +30,15 @@ es  un catálogo de imágenes, efectos, sonidos, cliparts, música, etc. que no
 
 ![Acceso a sonidos libres](img/sonidoslibres.png "Acceso a sonidos libres")
 
-
-Fig.2.22 _Acceso a sonidos sin licencia desde CATEDU_
-
 **Unidades didácticas o cursos completos**
 
 También ofrece [CATEDU](http://e-ducativa.catedu.es/44700165/sitio/index.cgi?wid_item=118&wid_seccion=22)  la posibilidad de descargar unidades o asignaturas completas de la materia que te interese
 
-
 **![Asignaturas completas](img/EDU1.png "Asignaturas completas")![Asignaturas de primaria](img/Edu2.png "Asignaturas de primaria")**
-
-
- Fig. 2.23 _Asignaturas completas de Secundaria y Bachillerato_                        Fig. 2.24 _Asignaturas completas de Primaria_
 
 **Facili[t@mos,](mailto:t@mos,) repositorio de propuestas didácticas **([http://facilitamos.catedu.es/](http://facilitamos.catedu.es/))
 
 Catedu nos ofrece una nueva plataforma llena de propuestas didácticas para Primaria, Secundaria, Formación Profesional y Educación Permanente.
 
 
- ![Portal Facilit@amos de Catedu](img/Faciltamos1.jpg "Portal Facilit@amos de Catedu")
-
-
-                        Fig. 2.25 _Pantalla inicial del portal Facilit@mos_
-
+![Portal Facilit@amos de Catedu](img/Faciltamos1.jpg "Portal Facilit@amos de Catedu")

@@ -38,7 +38,7 @@ Véase [http://propuestastic.elarequi.com/propuestas-didacticas/el-trabajo-en-r
  ![Las redes sociales](img/twyface.jpg "Las redes sociales")
 
 
-               _   Fig. 6.17  Las redes sociales_ [http://farm9.staticflickr.com/8523/8539048913\_1784d0de74\_o.jpg](http://farm9.staticflickr.com/8523/8539048913_1784d0de74_o.jpg)
+               _   
 
 *    **FACEBOOK**
 

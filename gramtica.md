@@ -4,16 +4,12 @@
 
 **Enciclopedia de lengua española**
 
-*   **[WIKILENGUA](http://www.wikilengua.org/index.php/Portada)  
-    **
+*   **[WIKILENGUA](http://www.wikilengua.org/index.php/Portada)**
 
 Es un wiki para compartir información práctica y normativa sobre el idioma español. Está pensado como un sitio abierto y participativo para compartir información práctica sobre la norma, el uso y el estilo del español y un medio para reflejar la diversidad de una lengua hablada por cientos de millones de personas. 
 
 
-**![Wikilengua del español. Gramática](img/wiki.png "Wikilengua del español. Gramática")**
-
-
- Fig. 2.40 _Página de Gramática de Wikilengua_
+![Wikilengua del español. Gramática](img/wiki.png "Wikilengua del español. Gramática")
 
 **Conjugadores verbales**
 
@@ -21,9 +17,6 @@ Es un wiki para compartir información práctica y normativa sobre el idioma
 
 
 ![Conjugador de verbos](img/verbo.png "Conjugador de verbos")
-
-
-Fig. 2.39 _Página para conjugar verbos en español_
 
 *   [http://www.gedlc.ulpgc.es/investigacion/scogeme02/flexver.ht](http://www.gedlc.ulpgc.es/investigacion/scogeme02/flexver.htm)
 *   [http://www.verbolog.com/conjuga.htm](http://www.verbolog.com/conjuga.htm)
@@ -35,8 +28,5 @@ Fig. 2.39 _Página para conjugar verbos en español_
 *   **[http://iesbinef.educa.aragon.es/lengua/sintaxis/](http://iesbinef.educa.aragon.es/lengua/sintaxis/)**
 
 
- ![Página de sintaxis](img/misintaxis.png "Página de sintaxis")
-
-
-Fig. 2.41  _Página de sintaxis_
+![Página de sintaxis](img/misintaxis.png "Página de sintaxis")
 

@@ -28,5 +28,5 @@ Sin embargo, existen otras WebQuest largas en las que los alumnos/as amplían o 
 ![Ejemplo de WebQuest](img/wqlengua.png "Ejemplo de WebQuest")
 
 
-Fig. 5.11  _Ejemplo de WebQuest_ [http://www.xtec.cat/~esanchez/webquest/index.htm](http://www.xtec.cat/~esanchez/webquest/index.htm) 
+
 

@@ -15,7 +15,7 @@ Todos los wikis que aparecen a continuación están relacionados con el área de
 ![Wiki de Lengua castellana](img/wiki5.png "Wiki de Lengua castellana")
 
 
-Fig. 4.8 _Wiki Fantastic_
+
 
 
 ![Wiki de Google Sites](img/wiki6.png "Wiki de Google Sites")

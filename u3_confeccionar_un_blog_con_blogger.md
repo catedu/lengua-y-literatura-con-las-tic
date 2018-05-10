@@ -9,7 +9,7 @@ Blogger es  un servicio _online_  de administración de blogs. Para crear un b
 **1\. Zona de acceso y creación de nuestro blog**
 
 
-**![Crear un nuevo blog con Blogger](img/blogger.jpg "Fig.0_9 Captura de pantalla propiaCrear un nuevo blog con Blogger")**
+**![Crear un nuevo blog con Blogger](img/blogger.jpg "
 
 
   

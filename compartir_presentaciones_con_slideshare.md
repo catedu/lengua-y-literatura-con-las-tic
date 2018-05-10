@@ -8,7 +8,7 @@ Es un espacio gratuito que permite enviar presentaciones para visualizarlas _onl
  ![Página para darse de alta en slideshare](img/slid.png "Página para darse de alta en slideshare")
 
 
-                                                 Fig. 3.11  _Página para abrir una cuenta en slideshare_
+                                                 
 
 Después de crear tu cuenta y acceder al servicio ve a "Upload" y "Browse and select files" para seleccionar y subir tu archivo.
 
@@ -17,7 +17,7 @@ Después de crear tu cuenta y acceder al servicio ve a "Upload" y "Browse and se
 ![Para subir presentaciones en slideshare](img/slideshare2.png "Para subir presentaciones en slideshare")
 
 
-                          Fig. 3.12  _Página para subir archivos a slideshare_  
+                          
   
 Da la información que consideres oportuna para que otros encuentren tu presentación (título, etiquetas, descripciones, etc.) y ve a publicar. Una vez que esté publicada comprueba que dispones de opciones similares a las de las otras herramientas (enviar por email, descargar, etc.). Si lo que decides finalmente es colocar el código que Slideshare te ofrece en tu blog o página web, el resultado será este:
 
@@ -36,7 +36,7 @@ Vídeo 8. [Cómo subir presentaciones en SlideShare](https://www.slideshare.net
 **![Recursos de Lengua castellana y litertura en slideshare](img/slideshare3.png "Recursos de Lengua castellana y litertura en slideshare")**
 
 
-         Fig. 3.13 [_Materiales de Lengua castellana y Literatura en slideshare_](http://www.slideshare.net/felipezayas/aprender-a-ensear-lengua-y-literatura-con-internet)
+         
 
  Para aprender a trabajar con slideshare es imprescindible leer [http://www.catedu.es/facilytic/2013/10/09/comparte-tus-presentaciones-en-internet-con-slideshare/](http://www.catedu.es/facilytic/2013/10/09/comparte-tus-presentaciones-en-internet-con-slideshare/)
 

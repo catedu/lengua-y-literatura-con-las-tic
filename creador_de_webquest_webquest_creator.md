@@ -6,7 +6,7 @@ Otra posibilidad para poder crear una WebQuest _on line_ la ofrece [Webquest Cr
 ![Página de inicio de WebQuest Creator](img/wq11.png "Página de inicio de WebQuest Creator")
 
 
-Fig. 5.7  _Página de inicio de Web Creator_
+
 
  Hay que registrase y después se puede comenzar a crear  una WebQuest
 
@@ -14,7 +14,7 @@ Fig. 5.7  _Página de inicio de Web Creator_
 ![Para registrarse en WebQuest Creator](img/wq12.png "Para registrarse en WebQuest Creator")
 
 
-                    Fig. 5.8 _Página para registrarse en WebQuest Creator_
+                    
 
 En este sencillo manual encontrarás las claves para elaborar una WebQuest 
 

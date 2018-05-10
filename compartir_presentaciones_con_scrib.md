@@ -17,7 +17,7 @@
 ![Página para inscribirse en Scrib](img/scrib.png "Página para inscribirse en Scrib")
 
 
-                Fig. 3.14  _Página de inscripción de Scrib_
+                
 
 A continuación, ya podemos empezar a subir nuestros trabajos desde el icono Subir 
 
@@ -25,7 +25,7 @@ A continuación, ya podemos empezar a subir nuestros trabajos desde el icono Sub
  ![Para subir archivos a Scrib](img/scrib1.png "Para subir archivos a Scrib")
 
 
-Fig.3.15_ Para subir nuestras producciones_
+
 
  En el icono de al lado, podemos consultar nuestro perfil, nuestros trabajos, nuestra librería, nuestras colecciones etc.    
 
@@ -35,7 +35,7 @@ Fig.3.15_ Para subir nuestras producciones_
 
 Si ya hemos guardado algún trabajo lo podemos embeber en nuestro blog y el resultado es el que siguiente:
 
-  Vídeo 9.  [Comentario de Romance de  la luna luna](http://es.scribd.com/doc/72492828/Romance-de-La-Luna-Luna?secret_password=1qs40r12hn2is21jt63z "View Romance de La Luna Luna on Scribd"), [de Federico García Lorca](-Luna?secret_password=1qs40r12hn2is21jt63z)                                                      Fig. 3.14 _Perfil  de scrib_
+  Vídeo 9.  [Comentario de Romance de  la luna luna](http://es.scribd.com/doc/72492828/Romance-de-La-Luna-Luna?secret_password=1qs40r12hn2is21jt63z "View Romance de La Luna Luna on Scribd"), [de Federico García Lorca](-Luna?secret_password=1qs40r12hn2is21jt63z)                                                      
 
 **Tutorial de cómo alojar y compartir documentos con Scrib **
 

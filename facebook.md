@@ -8,7 +8,7 @@ Lo primero que hay que hacer para entrar en Facebook es crearse una cuenta en la
 ![Página de inicio de facebook](img/face1.png "Página de inicio de facebook")
 
 
-Fig. 6.10  _Página de inicio de Facebook_
+
 
 A continuación, debes seguir los pasos que te indica este sencillo tutorial
 
@@ -26,7 +26,7 @@ Es muy importante que el usuario sepa con claridad qué es lo que están viendo 
 ![](http://www.wikisaber.es/uploadedImages/ComunidadWiki/Blogs/La_web_social_educativa,_Juan_Jos%C3%A9_de_Haro/JH-Seguridad-Facebook-1.jpg)
 
 
-Fig. 6.11 _Imagen tomada de Juan José de Haro_
+
 
 Las tres opciones que aparecen en la parte superior hacen referencia a la visibilidad de lo que hagamos **cuando no estemos en Facebook** pero lo usamos a través de otro servicio. También aparecerá como **opción predeterminada para las publicaciones de Facebook** aunque podremos cambiarlo para cada una en particular. Podremos elegir entre **Público** (todos lo ven), **Amigos** (sólo nuestros amigos lo ven) o **Personalizado** (podremos elegir personas o listas de personas, si tenemos alguna, que lo podrán ver). El resto de opciones que encontramos en esta página se describen a continuación: Cómo conectas. Esta opción nos permite definir, quién podrá ver nuestro perfil, quién puede enviarnos solicitudes de amistad, quién puede enviarnos mensajes en Facebook quién puede escribir en nuestro muro y quién podrá ver lo que escriban los demás en él.
 
@@ -42,7 +42,7 @@ Disponemos de una gran cantidad de opciones en la edición del **perfil**. Para 
 ![](http://www.wikisaber.es/uploadedImages/ComunidadWiki/Blogs/La_web_social_educativa,_Juan_Jos%C3%A9_de_Haro/JH-Seguridad-Facebook-2.jpg)
 
 
-Fig. 6.12 _Imagen tomada de Juan José de Haro_
+
 
 **Configuración de la cuenta:** en la configuración de la cuenta podremos acabar de decidir ciertos aspectos de seguridad que afectan a la forma de cómo nos conectamos, la contraseña que usamos, etc. Debemos pulsar sobre la flecha que hay a la derecha de **Inicio** y después en **Configuración de la cuenta**.
 
@@ -50,7 +50,7 @@ Fig. 6.12 _Imagen tomada de Juan José de Haro_
 ![](http://www.wikisaber.es/uploadedImages/ComunidadWiki/Blogs/La_web_social_educativa,_Juan_Jos%C3%A9_de_Haro/JH-Seguridad-Facebook-3.jpg)
 
 
-Fig. 6.13  _Imagen tomada de Juan José de Haro_
+
 
 A la izquierda dispondremos de un menú para seleccionar el aspecto que deseemos modificar:
 

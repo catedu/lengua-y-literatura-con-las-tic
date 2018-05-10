@@ -10,7 +10,7 @@ Para crear una cuenta en issuu hay que entra en la página de inicio y pulsar Cr
 ![Para inscribirse en issuu](img/issuu.png "para inscribirse en issu")
 
 
-                                               Fig. 3. 16  _Página de inicio de issuu_
+                                               
 
 Lo primero que llama la atención de Issuu es su atractivo aspecto diseñado en Flash. La página tiene un diseño muy elegante, con una zona de estantería donde ver todas tus publicaciones y suscripciones como si de una tienda se tratara.
 
@@ -20,7 +20,7 @@ En tu estantería de Issuu puedes agregar cuantos documentos quieras y compartir
 ![Estantería de issuu](img/issuu-30.jpg "Estantería de issuu")
 
 
-        Fig. 3.17 _Estantería de issuu [http://imagenes.es.sftcdn.net/es/scrn/130000/130526/issuu-30.jpg](http://imagenes.es.sftcdn.net/es/scrn/130000/130526/issuu-30.jpg)_
+        
 
 ###  Tutorial de issuu
 

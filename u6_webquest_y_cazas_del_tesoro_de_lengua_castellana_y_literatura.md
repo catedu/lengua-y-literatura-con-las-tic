@@ -11,7 +11,7 @@ Los ejemplos de WebQuests  de la materia   de Lengua castellana y Literatura s
 ![WebQuest sobre Miguel Hernández](img/wQ13.png "WebQuest sobre Miguel Hernández")
 
 
- Fig. 5.12  _WebQuest sobre la figura de Miguel Hernández_
+ 
 
 *   *    WebQuest sobre Juan Ramón Jiménez. Además, se pueden encontrar en la misma enlaces a otros trabajos sobre este autor y Zenobia Camprubí: 
 
@@ -35,7 +35,7 @@ Los ejemplos de WebQuests  de la materia   de Lengua castellana y Literatura s
  ![WebQuest sobre Bécquer](img/WQ15.png "WebQuest sobre Bécquer")
 
 
-Fig. 5.13 _WebQuest sobre Bécquer_
+
 
 *   **Lengua**
     *   Caza del tesoro muy completa sobre la Real Academia de la Lengua:

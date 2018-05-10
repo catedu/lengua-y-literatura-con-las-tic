@@ -8,5 +8,5 @@ Dos de entre los servicios más populares en el ámbito educativo son [Google Si
  ![Posibilidades educativas de los wikis](img/WIKI4.jpg "Posibilidades educativas de los wikis")
 
 
-Fig. 4.1 [http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/WIKI.jpg](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/WIKI.jpg)
+
 

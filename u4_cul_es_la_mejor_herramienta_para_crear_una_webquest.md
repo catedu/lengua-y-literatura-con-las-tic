@@ -4,7 +4,7 @@
 ![Alumnos resolviendo una WebQuest](img/investigadores_webquest.jpg "Alumnos resolviendo una WebQuest")
 
 
- Fig. 5.10 _Trabajo de investigación con una WebQuest_
+ 
 
 Es preferible que la  WebQuest esté alojada en Internet. Así se puede elaborar de manera cooperativa por parte de los alumnos y está a disposición del resto del profesorado.
 

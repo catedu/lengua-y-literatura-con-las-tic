@@ -10,7 +10,7 @@ Las redes sociales son servicios que tienen su escenario en Internet. La mayor p
 ![Twitter de la Biblioteca Nacional](img/twitterBN.JPG "Twitter de la Biblioteca Nacional")![Facebook de la Biblioteca Nacional](img/facebooBN.JPG "Facebook de la Biblioteca Nacional")
 
 
-         Fig. 6.1 _Twitter de la Biblioteca Nacional                                                  _Fig. 6.2 _Facebook de la Biblioteca Nacional_
+         
 
  Teniendo en cuenta la función que desempeñan  las redes sociales es evidente su utilidad en el ámbito educativo:
 

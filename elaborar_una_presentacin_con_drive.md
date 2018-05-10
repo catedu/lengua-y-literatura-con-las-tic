@@ -20,5 +20,5 @@ Se Selecciona**Presentación** y ya se puede empezar a trabajar
 ![Página inicial de presentación de Google Drive](img/z2.png "Página inicial de presentación de Google Drive")
 
 
-Fig. 3.8 _Menú desplegable de Google Drive_                             Fig. 3.9 _Pantalla inicial de presentación con Google Drive_     
+
 

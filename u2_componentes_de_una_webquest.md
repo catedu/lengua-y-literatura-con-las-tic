@@ -35,7 +35,7 @@ En esta sección se proporciona una lista de páginas web que el profesor ha loc
 Esta sección proporciona la oportunidad de resumir la experiencia, animar a la reflexión sobre el proceso y generalizar lo que se ha aprendido. No es una parte crítica de todo el conjunto, pero proporciona un broche (mecanismo de cierre) a la actividad. Puede ser interesante, en esta sección, sugerir preguntas que un profesor podría hacer en una discusión abierta con toda la clase.
 
 
- ![Componentes de una WebQuest](img/componentes-de-un-webquest1.jpg "Componentes de una WebQuest")              Fig. 5.2 _ Componentes de una WebQuest_
+ ![Componentes de una WebQuest](img/componentes-de-un-webquest1.jpg "Componentes de una WebQuest")              
 
 
  [http://nntt-educacion.wikispaces.com/file/view/componentes-de-un-webquest%5B1%5D.jpg/127479011/820x643/componentes-de-un-webquest%5B1%5D.jpg](http://nntt-educacion.wikispaces.com/file/view/componentes-de-un-webquest%5B1%5D.jpg/127479011/820x643/componentes-de-un-webquest%5B1%5D.jpg)

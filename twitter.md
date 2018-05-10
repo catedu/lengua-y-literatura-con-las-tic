@@ -10,7 +10,7 @@ y registrarse
 ![Página inicial de Twitter](img/twi1.png "Página inicial de Twitter")
 
 
-                             Fig. 6.6 _Página de inicio de Twitter_
+                             
 
  A continuación puedes seguir los pasos que te indica este sencillo tutorial
 
@@ -32,7 +32,7 @@ Una vez registrados podremos modificar las opciones que afectan a nuestra privac
 ![](http://www.wikisaber.es/uploadedImages/ComunidadWiki/Blogs/La_web_social_educativa,_Juan_Jos%C3%A9_de_Haro/JH-Seguridad-Twitter-1.jpg)
 
 
-  Fig. 6.7_  Imagen tomada de Juan José de Haro_
+  
 
 En el apartado **cuenta** podremos hacer los tweet privados (opción **Proteger mis Tweets**) aunque es algo desaconsejable ya que esta red se basa en la apertura a sus miembros y la privacidad de los tweet hará que mucha gente no te siga. Si vamos a escribir cosas que no deseamos que vea cualquiera probablemente será preferible crear dos cuentas, una para uso privado (familia, amigos, grupos privados, etc.) y otra para uso profesional que será abierta.
 

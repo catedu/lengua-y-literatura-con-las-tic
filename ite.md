@@ -7,10 +7,4 @@ Un recurso de gran utilidad es el Banco de Imágenes y sonidos del ITE. La licen
 Además de realizar una búsqueda por un término concreto como la que se muestra en la ilustración, que nos ha ofrecido como resultado fotografías, sonidos, una ilustración y un vídeo, se pueden realizar las búsquedas por un tipo concreto de media. Puede utilizarse una búsqueda por niveles educativos y materias, así como por colecciones. 
 
 
-![¡Adiós Cordena! Inauguración del Ferrocarril](img/25231__130_a_1.jpg "¡Adiós Cordera! Inauguración del ferrocarril")                                             
-
-
-                                                Fig. 2.26 _¡Adiós Cordera! Inauguración del ferrocarril_     
-
-                             [http://recursostic.educacion.es/bancoimagenes](http://recursostic.educacion.es/bancoimagenes)
-
+![¡Adiós Cordena! Inauguración del Ferrocarril](img/25231__130_a_1.jpg "¡Adiós Cordera! Inauguración del ferrocarril")

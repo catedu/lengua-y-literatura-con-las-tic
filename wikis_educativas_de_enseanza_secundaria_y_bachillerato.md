@@ -18,13 +18,13 @@
 ![Ejemplo de wiki de 2º de ESO](img/wikeduc1.png "Ejemplo de wiki de 2º de ESO")
 
 
-                                 Fig. 4.10 _Wiki de alumnos de 2º de ESO_
+                                 
 
 
 ![Ejemplo de wiki de Bachillerato](img/wikedu2.png "Ejemplo de wiki de Bachillerato")
 
 
-  Fig. 4.11_ Wiki de alumnos de 1º de Bachillerato_
+  
 
 *   _Homenaje a Ángel González_, [http://angel-gonzalez.wikispaces.com](http://angel-gonzalez.wikispaces.com/ "Homenaje a Ángel González"), creado por un equipo de más de quince profesores y profesoras,  con motivo del fallecimiento del poeta. Incluye casi setenta poemas, muchos de ellos recitados por los autores del wiki.
 

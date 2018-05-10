@@ -20,7 +20,7 @@ La pantalla inicial es aquella que se abre al iniciar el PowerPoint, no tiene po
  ![Página de inicio de PowerPoint](img/Powerpoint.png "Página de inicio de PowerPoint")
 
 
- Fig. 3.7 [_Pantalla inicial de PowerPoint_](http://www.proulex.com/computo/oe/doc/basico-powerpoint2007.pdf)
+ 
 
 Después de elegir [Abrir el programa](http://aularagon.catedu.es/materialesaularagon2013/presentaciones/PowerPoint2007/21_abrir_el_programa.html) , seleccionamos   [una nueva presentación](http://aularagon.catedu.es/materialesaularagon2013/presentaciones/PowerPoint2007/42_empezamos_por_fn.html) e [Insertar diapositivas](http://aularagon.catedu.es/materialesaularagon2013/presentaciones/PowerPoint2007/44_insertar_una_nueva_diapositiva.html).
 

@@ -16,6 +16,6 @@ Las utilidades que podemos extraer  para la enseñanza de Lengua castellana y L
                                                       ![La nube](img/LA_NUBE_3.jpg "La nube")
 
 
-                                                           Fig. 3.3 _Wikimedia Commons y elaboración propia AndaluciaLab.   
+                                                           
 _
 

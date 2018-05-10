@@ -25,16 +25,11 @@ Como verás a continuación, no hay una única licencia, sino que se pueden obte
 
 ![Página de inicio de Creative Commons](img/Screative.png "Página de inicio de Creative Commons")
 
-
-Fig. 2.27_  Página inicial de Creative Commons para registrar las obras propias_
-
 **Tutorial  para insertar una licencia Creative Commons**
 
-        Vídeo 9. Insertar una licencia Creative Commons 
+{% youtube %}http://www.youtube.com/embed/62Jv3mmRoAc{% endyoutube %}
 
-      [www.youtube.com/embed/62Jv3mmRoAc](http://www.youtube.com/embed/62Jv3mmRoAc)
-
-** GNU Free Documention License (GFDL)** ([http://artlibre.org/licence/lal/es](http://artlibre.org/licence/lal/es))
+**GNU Free Documention License (GFDL)** ([http://artlibre.org/licence/lal/es](http://artlibre.org/licence/lal/es))
 
 Esta licencia  permite al usuario copiar y redistribuir un trabajo pero exige que todas las copias y derivados queden bajo la misma licencia. 
 

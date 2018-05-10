@@ -1,8 +1,5 @@
 # Bibliotecas
 
-**Bibliotecas  
-**
-
 En las bibliotecas, cuyas páginas vamos a citar a continuación, se puede tener acceso a recursos libres si las obras de los autores ya no están sometidas a derechos de autor. Por dominio público se entiende la situación en que quedan las obras al expirar el plazo de protección de los derechos patrimoniales. Esto sucede habitualmente transcurrido un tiempo a partir de la muerte del autor y que, dependiendo de los países, va de 50 a 100 años. 
 
 El dominio público implica que las obras pueden ser explotadas siempre que se respeten los derechos morales.
@@ -15,9 +12,8 @@ El dominio público implica que las obras pueden ser explotadas siempre que se r
 
 La Biblioteca Nacional ofrece la posibilidad de consultar otros catálogos  con fondos digitalizados para su consulta directa en línea como [Biblioteca Digital del Patrimonio Iberoamericano](http://www.iberoamericadigital.net/BDPI/), [Patrimonio Bibliográfico](http://www.mcu.es/bibliotecas/MC/CCPB/index.html), [Publicaciones Periódicas](http://catalogo.bne.es/uhtbin/cgisirsi/x/0/0/57/49?user_id=CCPPWEB). También Bases de datos especiales y gestor de recursos electrónicos como [Archivos personales](http://www.bne.es/es/Catalogos/ArchivosPersonales/index.html), [Cantorales](http://www.bne.es/es/Catalogos/Cantorales/), [El Buscón: recursos-e](http://elbuscon.bne.es:8331/V/34A4MIXSKGPP23H9ANXUEVXNGM932ST66NTUJYFD453MVNAP7T-05109?FUNC=FIND-DB-1&pds_handle=GUEST), [Revistas electrónicas](http://elbuscon.bne.es/sfxlcl3/az?lang=spa) y [Catálogos digitalizados](http://www.bne.es/es/Micrositios/Guias/index.html?BusquedaCategoria=8).
 
-                Fig. 2.6 _Página de inicio de la Biblioteca Naciona_l
 
- ** Biblioteca Virtual** Miguel de Cervantes ([http://www.cervantesvirtual.com/](http://www.cervantesvirtual.com/))
+### Biblioteca Virtual Miguel de Cervantes [http://www.cervantesvirtual.com/](http://www.cervantesvirtual.com/)
 
 En la Biblioteca virtual Miguel de Cervantes podemos encontrar las siguientes áreas para buscar textos literarios y de crítica.  
 
@@ -37,17 +33,11 @@ En esta Biblioteca hay gran cantidad de documentos textuales y audiovisuales sob
 
 En la Biblioteca de Signos se incluye material bibliográfico de toda la historia de la educación de personas sordas en España  y de la investigación moderna en lingüística de las lenguas de signos y educación bilingüe.
 
-                                                                                                                                                                                                                                                                             Fig. 2.7 _Página de inicio de La Biblioteca Virtual Miguel de Cervantes_
-
 *   [Literatura Infantil y Juvenil](http://www.cervantesvirtual.com/bib/seccion/bibinfantil/)
 
 La Biblioteca de Literatura Infantil y Juvenil contiene un catálogo virtual de autores españoles e hispanoamericanos de obras infantiles y juveniles, revistas, cuentos, bibliotecas de autor, fonoteca de obras clásicas, talleres, enlaces institucionales, dirigido al mundo de la educación, edición, formación e investigación.
 
-
 ![Biblioteca de Literatura Infantil](img/cervinfantil.png "Biblioteca de Literatura Infantil")
-
-
-          Fig. 2.8_ Página de inicio de la Biblioteca de Literatura Infantil y Juvenil_
 
 *   [Lengua](http://www.cervantesvirtual.com/bib/seccion/lengua/)
 

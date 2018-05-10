@@ -31,7 +31,7 @@ En el  mapa conceptual del profesor[Juan José de Haro](http://jjdeharo.blogspo
 ![Mapa conceptual redes sociales web 2.0](img/twi2.png "Mapa conceptual redes sociales web 2.0")
 
 
-                   Fig.6.4  _Relación entre las redes sociales y la Wb 2.0 Juan José de Haro_
+                   
 
 **Crear grupos y páginas educativas en Twitter y Facebook**
 
@@ -39,7 +39,7 @@ En el  mapa conceptual del profesor[Juan José de Haro](http://jjdeharo.blogspo
  ![Logos de facebook y twitter](img/twitter-facebook.jpg "Logos de facebook y twitter")
 
 
-           Fig. 6.5 _Logos de facebook y twitter_
+           
 
   [http://www.emprendepyme.net/wp-content/uploads/2010/12/twitter-facebook.jpg](http://www.emprendepyme.net/wp-content/uploads/2010/12/twitter-facebook.jpg)
 

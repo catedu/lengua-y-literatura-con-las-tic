@@ -8,5 +8,5 @@ Resulta evidente que las presentaciones tienen otras funciones, además de las d
 ![Las Tic en Lengua](img/201351_a_1.jpg "Las Tic en Lengua")
 
 
-Fig. 3.6 _Uso didáctico de las TIC_
+
 

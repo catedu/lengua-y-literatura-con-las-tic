@@ -14,7 +14,7 @@ WebQuest es una metodología de aprendizaje basado fundamentalmente en los recur
 ![WebQuest](img/webquest_1.jpg "WebQuest")
 
 
-                   Fig. 5.1 _WebQuest modelo de trabajo colaborativo_
+                   
 
  Con este tutorial se pueden conocer todos los entresijos de una WebQuest 
 
