@@ -1,7 +1,5 @@
 # Wikis educativas de Enseñanza Secundaria y Bachillerato
 
-**Enseñanza Secundaria y Bachillerato**
-
 **Wikis de Departamentos y profesores de Lengua castellana y Literatura**
 
 *   _Lengua Santiago_, [http://lenguasantiago.wikispaces.com](http://lenguasantiago.wikispaces.com/ "LenguaSantiago"), wiki del Departamento de Lengua Castellana y Literatura del IES “Santiago Apóstol” de Almendralejo (Badajoz), que organiza temáticamente una serie de enlaces sobre contenidos relacionados con la didáctica del área.

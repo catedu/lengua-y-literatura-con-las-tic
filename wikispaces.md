@@ -1,7 +1,5 @@
 # Wikispaces
 
-**Wikiespaces**
-
 *   ** Registro y creación del wiki**
 
   
@@ -33,11 +31,11 @@ Wikispaces  proporciona la posibilidad de elegir entre tres tipos diferentes de
 *   _Protected:_ cualquiera puede ver las páginas pero sólo los usuarios que son miembros del espacio pueden editar las páginas.
 *   _Private_: las páginas sólo pueden ser vistas y modificados por los miembros del wiki.
 
-Una Guía de uso la podemos encontrar en [http://www.catedu.es/facilytic/2013/05/30/wikispaces-un-wiki-para-el-trabajo-colaborativo-y-por-proyectos/](http://www.catedu.es/facilytic/2013/05/30/wikispaces-un-wiki-para-el-trabajo-colaborativo-y-por-proyectos/)
+Una Guía de uso la podemos encontrar en [http://facilytic.catedu.es//2013/05/30/wikispaces-un-wiki-para-el-trabajo-colaborativo-y-por-proyectos/](http://facilytic.catedu.es//2013/05/30/wikispaces-un-wiki-para-el-trabajo-colaborativo-y-por-proyectos/)
 
 A continuación, te presentamos un vídeo tutorial del uso de Wikispaces para docentes
 
-Vídeo 6. Tutorial crear un wiki con wikispaces [http://www.youtube.com/embed/amuu5MGjJhk](http://www.youtube.com/embed/amuu5MGjJhk)
+{% youtube %}https://youtu.be/amuu5MGjJhk{% endyoutube %}
 
 ## Importante
 

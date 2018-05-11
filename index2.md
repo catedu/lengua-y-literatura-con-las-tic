@@ -1,18 +1,14 @@
-# Módulo 3: PRESENTACIONES Y TRABAJO COLABORATIVO CON RECURSOS DE LA RED
+# 3. PRESENTACIONES Y TRABAJO COLABORATIVO CON RECURSOS DE LA RED
 
-**Lengua castellana y Literatura con las  TIC **
-
-Las presentaciones  sirven para mostrar  los contenidos de manera dinámica y  motivadora. Esos recursos y otros elaborados por los profesores pueden ser compartidos  con distintas herramientas que proporciona Internet: “la nube de Internet”.  
+Las presentaciones  sirven para mostrar  los contenidos de manera dinámica y  motivadora. Esos recursos y otros elaborados por los profesores pueden ser compartidos  con distintas herramientas que proporciona Internet: “la nube de Internet”.
 
 Trabajar   temas en torno a los programas de ofimática y  crear producciones propias que pueden ser almacenadas y  compartidas en la red es fundamental para la labor docente de los profesores de Lengua castellana y Literatura.
 
 
 ![Página de inicio de la Escuela en la nube](img/nUBE1.png "Página de inicio de la Escuela en la nube") ![Página de inicio de la Literatura en la nube](img/NUBE2.png "Página de inicio de la Literatura en la nube")
 
-
- 
-
-      [http://www.escuelaenlanube.com/](http://www.escuelaenlanube.com/)                                        [http://laliteraturaestaenlanube.blogspot.com.es/](http://laliteraturaestaenlanube.blogspot.com.es/)
+* [http://www.escuelaenlanube.com/](http://www.escuelaenlanube.com/)                                
+* [http://laliteraturaestaenlanube.blogspot.com.es/](http://laliteraturaestaenlanube.blogspot.com.es/)
 
 ## Objetivos
 

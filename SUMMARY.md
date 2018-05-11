@@ -2,7 +2,6 @@
 
 * [Introducción](README.md)
 
-<!--
 ____
 ### 1. El blog como medio de comunicación 
 * [Módulo 1: EL BLOG COMO MEDIO DE COMUNICACIÓN](index0.md)
@@ -41,7 +40,7 @@ ____
 		* [Diccionarios](diccionarios.md)
 		* [Gramática](gramtica.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos1.md)
--->
+
 
 ### 3. Presentaciones y trabajo colaborativo con recursos de la red 
 * [PRESENTACIONES Y TRABAJO COLABORATIVO CON RECURSOS DE LA RED](index2.md)
@@ -60,9 +59,9 @@ ____
 		* [Compartir presentaciones con Issuu](compartir_presentaciones_con_issuu.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos2.md)
 
-<!--
-### Módulo 4: TRABAJO COLABORATIVO CON WIKIS | Trabajo colaborativo con wikis 
-* [Módulo 4: TRABAJO COLABORATIVO CON WIKIS](index3.md)
+
+### 4. Trabajo colaborativo con wikis 
+* [TRABAJO COLABORATIVO CON WIKIS](index3.md)
 * [Contenidos](contenidos3.md)
 	* [U.1 ¿QUÉ SON LOS WIKIS?](u1_qu_son_los_wikis.md)
 	* [U.2 CREACIÓN DE WIKIS](u2_creacin_de_wikis.md)
@@ -73,23 +72,22 @@ ____
 		* [Wikis educativas de Enseñanza Primaria](wikis_educativas_de_enseanza_primaria.md)
 		* [Wikis educativas de Enseñanza Secundaria y Bachillerato](wikis_educativas_de_enseanza_secundaria_y_bachillerato.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
-* [Créditos](crditos3.md)
-### Módulo 5: LAS WEBQUEST, UN RECURSO EDUCATIVO | Las WebQuest, un recurso educativo 
-* [Módulo 5: LAS WEBQUEST, UN RECURSO EDUCATIVO](index4.md)
+
+### 5. LAS WEBQUEST, UN RECURSO EDUCATIVO | Las WebQuest, un recurso educativo 
+* [LAS WEBQUEST, UN RECURSO EDUCATIVO](index4.md)
 * [Contenidos](contenidos4.md)
 	* [U.1 ¿QUÉ SON LAS WEBQUEST?](u1_qu_son_las_webquest.md)
 	* [U.2 COMPONENTES DE UNA WEBQUEST](u2_componentes_de_una_webquest.md)
 	* [U.3 ELABORACIÓN DE UNA WEBQUEST](u3_elaboracin_de_una_webquest.md)
 		* [Creador de WebQuest con Google Sites](creador_de_webquest_con_google_sites.md)
-		* [Creador de WebQuest de CATEDU](creador_de_webquest_de_catedu.md)
 		* [Creador de WebQuest webquest Creator](creador_de_webquest_webquest_creator.md)
 	* [U.4 ¿CUÁL ES LA MEJOR HERRAMIENTA PARA CREAR UNA WEBQUEST?](u4_cul_es_la_mejor_herramienta_para_crear_una_webquest.md)
 	* [U.5 DESARROLLO Y TIPOS DE WEBQUEST](u5_desarrollo_y_tipos_de_webquest.md)
 	* [U.6 WEBQUEST Y CAZAS DEL TESORO DE LENGUA CASTELLANA Y LITERATURA](u6_webquest_y_cazas_del_tesoro_de_lengua_castellana_y_literatura.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos4.md)
-* [Créditos](crditos4.md)
-### Módulo 6: LAS REDES SOCIALES COMO RECURSO EDUCATIVO | Las redes sociales como recurso educativo 
-* [Módulo 6: LAS REDES SOCIALES COMO RECURSO EDUCATIVO](index5.md)
+
+### 6. Las redes sociales como recurso educativo 
+* [LAS REDES SOCIALES COMO RECURSO EDUCATIVO](index5.md)
 * [Contenidos](contenidos5.md)
 	* [U.1 ¿QUÉ SON LAS REDES SOCIALES?](u1_qu_son_las_redes_sociales.md)
 	* [U.2 FUNCIONAMIENTO DE LAS REDES SOCIALES](u2_funcionamiento_de_las_redes_sociales.md)
@@ -101,7 +99,6 @@ ____
 	* [U.4 USO EDUCATIVO DE LAS REDES SOCIALES](u4_uso_educativo_de_las_redes_sociales.md)
 	* [U.5 EJEMPLOS EDUCATIVOS DEL USO DE LAS REDES SOCIALES EN LENGUA CASTELLANA Y LITERATURA](u5_ejemplos_educativos_del_uso_de_las_redes_sociales_en_lengua_castellana_y_literatura.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos5.md)
--->
 
 ___
 * [Créditos](crditos.md)

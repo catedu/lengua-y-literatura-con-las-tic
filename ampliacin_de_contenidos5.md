@@ -1,6 +1,6 @@
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para saber más
 
 El uso de las redes sociales en educación debe ser muy cuidadoso, ya que  hay que respetar  la privacidad de la relación profesores-alumnos,  la imagen pública de los estudiantes, especialmente si son menores de edad, la protección de los datos digitales; todo ello hace aconsejable la utilización de servicios y aplicaciones específicamente destinados al uso educativo. A continuación veremos algunos de los más populares.
 
@@ -9,7 +9,6 @@ El uso de las redes sociales en educación debe ser muy cuidadoso, ya que  hay 
 
 **Redes sociales, sus riesgos**
 
-Vídeo 7. [Web y Redes Sociales,](https://www.slideshare.net/lindacq/web-y-redes-sociales-el-nuevo-entorno-denuestros-hijos "Web y Redes Sociales, ")  de  [Linda Castañeda](http://www.slideshare.net/lindacq)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tt6qujViEYV1qk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lindacq/web-y-redes-sociales-el-nuevo-entorno-denuestros-hijos" title="Web y Redes Sociales, " target="_blank">Web y Redes Sociales, </a> </strong> from <strong><a href="https://www.slideshare.net/lindacq" target="_blank">Linda Castañeda</a></strong> </div>
 
-Véase [http://propuestastic.elarequi.com/propuestas-didacticas/el-trabajo-en-red-y-las-redes-sociales/](http://propuestastic.elarequi.com/propuestas-didacticas/el-trabajo-en-red-y-las-redes-sociales/)
-
+Véase [http://propuestastic.elarequi.com/propuestas-didacticas/el-trabajo-en-red-y-las-redes-sociales/](http://propuestastic.elarequi.com/propuestas-didacticas/el-trabajo-en-red-y-las-redes-sociales/)

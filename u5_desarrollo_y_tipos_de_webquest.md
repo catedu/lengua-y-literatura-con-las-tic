@@ -8,7 +8,7 @@ Las WebQuests, siempre que promuevan procesos de enseñanza-aprendizaje signific
 
 *   El hecho de que habitualmente se publiquen en formato HTML, como páginas de un sitio web visible en Internet, permite que sean fácilmente utilizables por los alumnos y que otros docentes las puedan reutilizar o adaptar para sus propias necesidades.
 
- Se pueden distinguir tres tipos de WebQuest teniendo en cuenta los objetivos que en ellas se planteen:
+Se pueden distinguir tres tipos de WebQuest teniendo en cuenta los objetivos que en ellas se planteen:
 
 *    A **corto plazo:** adquisición e integración del conocimiento de un determinado contenido de una o varias materias. Una WebQuest a corto plazo se diseña para ser terminado de uno a tres períodos de clase.
 
@@ -16,7 +16,7 @@ Las WebQuests, siempre que promuevan procesos de enseñanza-aprendizaje signific
 
 *   **Miniquest:** consiste en una versión reducida de las WebQuests, en las que solo se consideran tres pasos: escenario,  tarea y producto. Los alumnos las realizan completamente en el transcurso de una o dos clases como máximo.
 
-                                                 Vídeo. 9 Tipos de webQuest [http://prezi.com/ypuz9jgu5pmp/webquest/](http://prezi.com/ypuz9jgu5pmp/webquest/)
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/ypuz9jgu5pmp/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0VnErN1V6NTFQWEJqcjZjM05rcW15Y2lnPT0&amp;landing_sign=v8Vq4fp9NaqVMPPnTy1cJvMItB_olaCjLRZyv1DdQ8c"></iframe>
 
 En una webQuest se organiza a los alumnos/as en grupos. Se puede asignar a cada uno un papel determinado en el proceso de realización de la tarea conjunta.
 

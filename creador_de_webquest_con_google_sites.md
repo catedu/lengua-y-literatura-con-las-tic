@@ -6,17 +6,14 @@ Además,  frente a otras herramientas, colaborar entre varias personas en su el
 
 A continuación mostramos dos tutoriales para conocer todos los entresijos para elaborar una WebQuest con Google Sites.
 
-Vídeo 6. [Webquest google sites](https://www.slideshare.net/pazgonzalo2/webquest-google-sites "Webquest google sites")  de  [Paz Gonzalo](http://www.slideshare.net/pazgonzalo2)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Ep1gJ3ssJsRkz1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pazgonzalo2/webquest-google-sites" title="Webquest google sites" target="_blank">Webquest google sites</a> </strong> from <strong><a href="https://www.slideshare.net/pazgonzalo2" target="_blank">Paz Gonzalo</a></strong> </div>
 
-  Video 7 [http://www.youtube.com/watch?v=ALQIp800YFU](http://www.youtube.com/watch?v=ALQIp800YFU) de Antonieta
+{% youtube %}http://www.youtube.com/watch?v=ALQIp800YFU{% endyoutube %}
 
 Este sería el aspecto de una WebQuest realizada con Google Sites
 
 
 ![WebQuest con Google Sites](img/wikigs.png "WebQuest con Google Sites")
-
-
  
-
 [https://sites.google.com/site/tallerdecuentosdeterror/](https://sites.google.com/site/tallerdecuentosdeterror/)
 

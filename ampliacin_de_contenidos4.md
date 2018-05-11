@@ -1,14 +1,14 @@
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para saber más
 
 **Aplicaciones informáticas para crear WebQuest**
 
 Además de las  aplicaciones informáticas gratuitas específicamente programadas para crear y publicar este tipo de sitios web, como [PHP Webquest](http://www.phpwebquest.org/ "PHP Webquest") y  [Zunal](http://www.zunal.com/ "Zunal") en inglés,
 
-Vídeo 7. [Tutorial php webquest](https://www.slideshare.net/CristinaDelRoMartnez/tutorial-php-webquest-8820403 "Tutorial php webquest")  de [Cristina Del Río Martínez](http://www.slideshare.net/CristinaDelRoMartnez)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/LpwXzmoZELBt9V" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/CristinaDelRoMartnez/tutorial-php-webquest-8820403" title="Tutorial php webquest" target="_blank">Tutorial php webquest</a> </strong> from <strong><a href="https://www.slideshare.net/CristinaDelRoMartnez" target="_blank">Cristina Del Río Martínez</a></strong> </div>
 
-también se pueden crear webquests mediante sistemas de gestión de contenidos destinados a otros propósitos, como los blogs. Un caso particular de tal posibilidad es el llamado [blogquest](http://recursostic.educacion.es/blogs/buenaspracticas20/index.php/2009/09/05/de-la-webquest-al-blogquest "De la webquest al blogquest"), híbrido entre blog y webquest que añade a esta las capacidades avanzadas de gestión del contenido y la interactividad con los usuarios propias de un blog. 
+También se pueden crear webquests mediante sistemas de gestión de contenidos destinados a otros propósitos, como los blogs. Un caso particular de tal posibilidad es el llamado [blogquest](http://recursostic.educacion.es/blogs/buenaspracticas20/index.php/2009/09/05/de-la-webquest-al-blogquest "De la webquest al blogquest"), híbrido entre blog y webquest que añade a esta las capacidades avanzadas de gestión del contenido y la interactividad con los usuarios propias de un blog. 
 
 **Diferencias y semejanzas entre las WebQuest y las Cazas del tesoro**
 

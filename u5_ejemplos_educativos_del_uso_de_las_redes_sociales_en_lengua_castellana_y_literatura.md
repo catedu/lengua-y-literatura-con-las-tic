@@ -1,7 +1,5 @@
 # U.5 EJEMPLOS EDUCATIVOS DEL USO DE LAS REDES SOCIALES EN LENGUA CASTELLANA Y LITERATURA
 
-### Ejemplos educativos del uso de las redes sociales en el área de Lengua
-
 No hay hasta el momento muchas experiencias educativas en la materia de  Lengua Castellana y Literatura, sin embargo, esa situación está cambiando y son más los docentes que incluyen las redes sociales como herramientas para su labor docente. Aquí mostramos algunas:
 
 *   _La generación del 27 en Facebook_: una experiencia educativa que ha liderado la profesora Sonia Martínez, con alumnos y alumnas de 1º de ESO del INS Castellar, de Castellar del Vallès (Barcelona). La información sobre esta experiencia educativa puede consultarse en el [Portafolio del docente](http://primerportafolio.blogspot.com.es/ "Portafolio del docente") de la citada profesora, así como en el capítulo “La generación del 27 en Facebook”, incluido en Hernández Ortega, José, Massimo Penessi Fruscio, Diego Sobrino López y Azucena Vázquez Gutiérrez (coords.), _Experiencias educativas en las aulas del siglo XXI. Innovación con TIC_, Madrid, Fundación Telefónica-Editorial Ariel, 2011, pp. 133-135 (disponible en [PDF](http://ciberespiral.org/attachments/225_Experiencias_educativas20.pdf "Experiencias educativas en las aulas del siglo XXI. Innovación con TIC")). La experiencia también está descrita en la presentación [Facebook en el aula: una experiencia de _roleplaying_](http://www.slideshare.net/sonia_ser/facebook-en-el-aula "Facebook en el aula: una experiencia de roleplaying").

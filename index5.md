@@ -1,12 +1,10 @@
 # Módulo 6: LAS REDES SOCIALES COMO RECURSO EDUCATIVO
 
-** Las redes sociales como recurso educativo**
-
 Las redes sociales pueden convertirse en una herramienta muy útil para el trabajo de los docentes porque, al ser usadas de  manera habitual por los alumnos, puede suponer una forma de acercamiento a los mismos y, por ende, de realización de  la labor educativa de manera más efectiva.
 
 El objetivo de este módulo es conseguir que el profesorado conozca los usos educativos que ofrecen las redes sociales como Twitter o  Facebook.
 
-                               Vídeo 1. Usos educativos de las redes sociales [http://www.youtube.com/watch?v=pwSsIvrE-7g](http://www.youtube.com/watch?v=pwSsIvrE-7g)
+{% youtube %}http://www.youtube.com/watch?v=pwSsIvrE-7g{% endyoutube %}
 
 ## Objetivos
 

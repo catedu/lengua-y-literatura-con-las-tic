@@ -4,7 +4,7 @@ Los componentes básicos de una WebQuest son: una**introducción**clara, sucinta
 
  Te ofrecemos un resumen de las partes de que se componen una WebQuest 
 
-Vídeo 3.  [Componentes de una WebQuest](https://www.slideshare.net/arrabalde/componentes-de-una-webquest "Componentes de una WebQuest") 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/sSmLUQBSRuz3ap" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/arrabalde/componentes-de-una-webquest" title="Componentes de una WebQuest" target="_blank">Componentes de una WebQuest</a> </strong> from <strong><a href="https://www.slideshare.net/arrabalde" target="_blank">arrabalde</a></strong> </div>
 
 **1\. Introducción**
 

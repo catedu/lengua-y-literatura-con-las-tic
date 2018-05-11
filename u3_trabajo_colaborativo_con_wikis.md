@@ -2,7 +2,7 @@
 
 # Usos educativos de los wikis
 
-                Vídeo 7. [Wikis en la escuela](https://www.slideshare.net/dasava/wikis-en-la-escuela "Wikis en la escuela") de [dasava](http://www.slideshare.net/dasava)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6pdtEJaBMdrYt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dasava/wikis-en-la-escuela" title="Wikis en la escuela" target="_blank">Wikis en la escuela</a> </strong> from <strong><a href="https://www.slideshare.net/dasava" target="_blank">dasava</a></strong> </div>
 
 Los wikis ofrecen interesantes posibilidades para todos los niveles del área de  Lengua Castellana y Literatura, ya que son imprescindibles para el trabajo cooperativo o colaborativo que suponga la creación de un documento común.  Algunos ejemplos son:
 

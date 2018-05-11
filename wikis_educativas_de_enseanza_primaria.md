@@ -1,8 +1,5 @@
 # Wikis educativas de Enseñanza Primaria
 
-  
-**Enseñanza Primaria **
-
 Todos los wikis que aparecen a continuación están relacionados con el área de Lengua Castellana y Literatura:
 
 **Wikis de aula**
@@ -19,9 +16,6 @@ Todos los wikis que aparecen a continuación están relacionados con el área de
 
 
 ![Wiki de Google Sites](img/wiki6.png "Wiki de Google Sites")
-
-
- 4.9_ Wiki en Google Sites_
 
  Experiencias recogidas en [http://recursostic.educacion.es/observatorio/apls/wikiseneducacion/web/index.php/Primaria](http://recursostic.educacion.es/observatorio/apls/wikiseneducacion/web/index.php/Primaria)
 

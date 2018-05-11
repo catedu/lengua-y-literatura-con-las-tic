@@ -5,4 +5,3 @@ También existe la posibilidad de tener tus presentaciones en Internet con disti
 
 ![Compartir con slideshare](img/slideshare_1.gif)                        
 
-

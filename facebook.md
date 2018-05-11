@@ -1,7 +1,5 @@
 # Facebook
 
-**Facebook**
-
 Lo primero que hay que hacer para entrar en Facebook es crearse una cuenta en la página de inicio [https://www.facebook.com/](https://www.facebook.com/)
 
 
@@ -12,21 +10,13 @@ Lo primero que hay que hacer para entrar en Facebook es crearse una cuenta en la
 
 A continuación, debes seguir los pasos que te indica este sencillo tutorial
 
-Vídeo 5. [Manual Facebook (2013)](https://www.slideshare.net/Agnetagsu/manual-facebook-2013-cuenta-privacidad-fotos-chatear-y-mensajes-privados "Manual Facebook (2013): cuenta, privacidad, fotos, chatear y mensajes privados.")
-
-[http://www.slideshare.net/Agnetagsu/manual-facebook-2013-cuenta-privacidad-fotos-chatear-y-mensajes-privados](http://www.slideshare.net/Agnetagsu/manual-facebook-2013-cuenta-privacidad-fotos-chatear-y-mensajes-privados)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/D8TdwQczXgO76Q" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Agnetagsu/manual-facebook-2013-cuenta-privacidad-fotos-chatear-y-mensajes-privados" title="Manual Facebook (2013): cuenta, privacidad, fotos, chatear y mensajes privados." target="_blank">Manual Facebook (2013): cuenta, privacidad, fotos, chatear y mensajes privados.</a> </strong> from <strong><a href="https://www.slideshare.net/Agnetagsu" target="_blank">Agneta Gallardo</a></strong> </div>
 
 **Seguridad y privacidad en Facebook**
 
 Es muy importante que el usuario sepa con claridad qué es lo que están viendo los demás y lo que pueden saber de nosotros. La mayoría de la información personal se introduce durante el registro, por lo que el primer consejo es limitarse a responder los **datos realmente imprescindibles, ** que suelen ser el nombre, apellidos y correo electrónico.  Siguiendo las leyes de Estados Unidos, esta red **no permite el registro a los menores de 13 años**. En Facebook es posible controlar de forma muy eficiente toda nuestra información. T**e recomendamos que dediques tiempo** a configurar todas y cada una de las posibilidades que te ofrece esta red para preservar tu intimidad. Debes tener en cuenta que, según las opciones de configuración que escojamos, incluso personas no registradas en Facebook podrían ver nuestra actividad o datos.
 
 **Privacidad:** una vez estamos en Facebook podemos pulsar sobre la flecha que hay a la derecha de inicio y seleccionar **Configuración de la privacidad**, lo que nos permitirá configurar algunos aspectos generales (no todos) de la misma.
-
-
-![](http://www.wikisaber.es/uploadedImages/ComunidadWiki/Blogs/La_web_social_educativa,_Juan_Jos%C3%A9_de_Haro/JH-Seguridad-Facebook-1.jpg)
-
-
-
 
 Las tres opciones que aparecen en la parte superior hacen referencia a la visibilidad de lo que hagamos **cuando no estemos en Facebook** pero lo usamos a través de otro servicio. También aparecerá como **opción predeterminada para las publicaciones de Facebook** aunque podremos cambiarlo para cada una en particular. Podremos elegir entre **Público** (todos lo ven), **Amigos** (sólo nuestros amigos lo ven) o **Personalizado** (podremos elegir personas o listas de personas, si tenemos alguna, que lo podrán ver). El resto de opciones que encontramos en esta página se describen a continuación: Cómo conectas. Esta opción nos permite definir, quién podrá ver nuestro perfil, quién puede enviarnos solicitudes de amistad, quién puede enviarnos mensajes en Facebook quién puede escribir en nuestro muro y quién podrá ver lo que escriban los demás en él.
 
@@ -38,19 +28,7 @@ Las tres opciones que aparecen en la parte superior hacen referencia a la visib
 
 Disponemos de una gran cantidad de opciones en la edición del **perfil**. Para verlas debemos pulsar sobre nuestro nombre y después sobre **Editar perfil**. A la izquierda aparecerá un menú que nos permitirá elegir el tema que vamos a configurar y a la derecha todas las opciones sobre las que vamos a decidir quién las verá. Podremos decidir quién podrá ver nuestra edad, nuestros intereses, lugar de estudio, aficiones, amigos, familiares, ideología política, religión, etc. Hay que revisar todas y cada una de las opciones para estar seguro de que no estamos exponiendo información de forma incontrolada.
 
-
-![](http://www.wikisaber.es/uploadedImages/ComunidadWiki/Blogs/La_web_social_educativa,_Juan_Jos%C3%A9_de_Haro/JH-Seguridad-Facebook-2.jpg)
-
-
-
-
 **Configuración de la cuenta:** en la configuración de la cuenta podremos acabar de decidir ciertos aspectos de seguridad que afectan a la forma de cómo nos conectamos, la contraseña que usamos, etc. Debemos pulsar sobre la flecha que hay a la derecha de **Inicio** y después en **Configuración de la cuenta**.
-
-
-![](http://www.wikisaber.es/uploadedImages/ComunidadWiki/Blogs/La_web_social_educativa,_Juan_Jos%C3%A9_de_Haro/JH-Seguridad-Facebook-3.jpg)
-
-
-
 
 A la izquierda dispondremos de un menú para seleccionar el aspecto que deseemos modificar:
 
@@ -69,12 +47,6 @@ A la izquierda dispondremos de un menú para seleccionar el aspecto que deseemos
 *   **Visibilidad** de lo que publicamos en Facebook
 
 Cada vez que escribimos un mensaje tenemos un botón con el icono de una bola del mundo donde podremos elegir quién podrá verlo. A este botón se le llama el selector de audiencia. Aparecerá como opción predeterminada la que hayamos puesto en **Configuración de la privacidad**.
-
-
-![](http://www.wikisaber.es/uploadedImages/ComunidadWiki/Blogs/La_web_social_educativa,_Juan_Jos%C3%A9_de_Haro/JH-Seguridad-Facebook-4.jpg)
-
-
- 6.14 _Imagen tomada de Juan José de Haro_
 
 Es muy importante la configuración de esta característica cada vez que intervenimos en Facebook, ya que es la que determinará el alcance de la información que publicamos.  
 

@@ -13,7 +13,7 @@ Un Wiki es un sitio web colaborativo que puede ser editado por varios usuarios*
 *   Subir y almacenar documentos y todo tipo de archivos que se pueden enlazar dentro del wiki para que los alumnos los utilicen como imágenes, documentos pdf.
 *   Enlazar páginas exteriores e insertar audios, vídeos, presentaciones.
 
-Video 2 ¿Qué es un wiki? [http://www.youtube.com/watch?v=jIgk8v74IZg](http://www.youtube.com/watch?v=jIgk8v74IZg)
+{% youtube %}https://youtu.be/jIgk8v74IZg{% endyoutube %}
 
 **2- Las posibilidades educativas de los wikis**
 
@@ -33,7 +33,7 @@ Entre las diferentes propuestas didácticas que se pueden realizar con wikis, de
 *   Revisar y corregir trabajos.
     
 
-Vídeo 3. [http://prezi.com/vvgxtcpgpkhj/aplicaciones-educativas-y-analisis-critico-de-los-medios-de-comunicacion-tradicionales-y-digitales-en-el-aula/](http://prezi.com/vvgxtcpgpkhj/aplicaciones-educativas-y-analisis-critico-de-los-medios-de-comunicacion-tradicionales-y-digitales-en-el-aula/)
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/vvgxtcpgpkhj/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5dVduSS9NbkpINnVzZ01SU1FxZFdGcWJ3PT0&amp;landing_sign=Q2uC0QF-50uFseQpUAdekQOZiXUTvZSJBQMQ6OR1zSs"></iframe>
 
 ## Importante
 

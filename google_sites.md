@@ -1,22 +1,14 @@
 # Google Sites
 
-** Google Sites**
-
 Google  presenta la novedad de acceder a todas sus posibilidades desde una única cuenta de correo de Gmail. Accedemos a [Google sites](https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fsites.google.com%2Fsite%2F&followup=https%3A%2F%2Fsites.google.com%2Fsite%2F&service=jotspot&ul=1) con el nombre de usuario y contraseña de nuestro correo Gmail. Google nos ofrece un manual muy sencillo y práctico para manejarnos en Google sites [https://sites.google.com/site/webscolaborativas/](https://sites.google.com/site/webscolaborativas/). 
 
 
- ![Página de acceso a todos los servicios de Google](img/google_sites1.png "Página de acceso a todos los servicios de Google")
-
-
-
+![Página de acceso a todos los servicios de Google](img/google_sites1.png "Página de acceso a todos los servicios de Google")
 
 Después, accederemos a la pantalla siguiente en la que deberemos seleccionar una plantilla para nuestra página web y darle  un nombre a nuestro sitio. A continuación se nos mostrará la ubicación del sitio. Y ya podremos entrar en nuestra página. En ella contaremos con constantes ayudas que nos despejarán las dudas que nos encontremos en su uso.
 
 
-** ![Crear un wiki con Google Sites](img/wiki3.png "Crear un wiki con Google Site")**
-
-
-
+![Crear un wiki con Google Sites](img/wiki3.png "Crear un wiki con Google Site")
 
 Crearemos las paginas que queramos y podremos dar acceso a ellas a otros usuarios, porque  Google sites dispone de 3 modalidades de usuarios:
 
@@ -26,21 +18,16 @@ Crearemos las paginas que queramos y podremos dar acceso a ellas a otros usuario
 
 Para conocer realmente la funcionalidad de Google Sites en la creación de  wikis, nada mejor que leer un completísimo   [Wiki tutoria de Google Sites](https://sites.google.com/site/pruebawikivillar/) compuesto de cuatro partes.
 
-**[  
-](https://www.slideshare.net/lbarriocanal/tutorial-google-sites-6118401 "Tutorial Google Sites")**
-
-Vídeo 4. Cómo crear un sitio web con Google Sites [http://www.youtube.com/watch?v=PYKyMCeLHtU](http://www.youtube.com/watch?v=PYKyMCeLHtU)
+{% youtube %}https://youtu.be/PYKyMCeLHtU{% endyoutube %}
 
 Un tutorial más breve es el siguiente:
 
- Vídeo 5. Creación de un wiki con Google Sites 
-
-[http://www.youtube.com/watch?v=uQ1YwQo5y90](http://www.youtube.com/watch?v=uQ1YwQo5y90)
+{% youtube %}https://youtu.be/uQ1YwQo5y90{% endyoutube %}
 
 ## Importante
 
   
-Las tres grandes ventajas de Google sites son:
+Las grandes ventajas de Google sites son:
 
 *   Las opciones de privacidad hacen que podamos definir con quién compartimos las páginas editables (gente del mismo dominio, todo el mundo o una lista propia), los tipos de página que podemos crear (un repositorio de archivos con 10GB por cuenta) y la facilidad de uso.
 *   La plasticidad de las páginas de Google sites hace que la funcionalidad entre un wiki, un blog o un foro de discusión esté determinada casi únicamente por el uso que queramos darle nosotros.

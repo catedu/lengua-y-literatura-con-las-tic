@@ -13,9 +13,4 @@ Las utilidades que podemos extraer  para la enseñanza de Lengua castellana y L
 *   Publicar los propios trabajos para compartirlos con el resto de compañeros produciéndose un aprendizaje recíproco.
 
 
-                                                      ![La nube](img/LA_NUBE_3.jpg "La nube")
-
-
-                                                           
-_
-
+![La nube](img/LA_NUBE_3.jpg "La nube")
